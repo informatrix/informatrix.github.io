@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to InforMatrix!"
 date:   2015-12-31 19:50:51 +0800
 categories: jekyll update
 ---
