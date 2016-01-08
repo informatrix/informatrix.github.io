@@ -21,4 +21,6 @@ github_username:  jekyll
 #markdown: kramdown
 #kramdown:
 #  math_engine: mathjax
-markdown: redcarpet
+#markdown: redcarpet
+markdown: kramdown
+highlighter: pygments
