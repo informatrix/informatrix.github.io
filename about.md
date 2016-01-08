@@ -11,5 +11,4 @@ During last few years, he has done a little research work on machine learning an
 Currently, he is doing research on video analysis. 
 
 You can find the Alfred at
-{% include icon-github.html username="informatrix" %} /
-[Informatrix](https://github.com/informatrix)
+{% include icon-github.html username="informatrix" %} 
