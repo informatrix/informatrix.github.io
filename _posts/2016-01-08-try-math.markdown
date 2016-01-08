@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Would MathJax works?"
-data: 2016-01-08 10:17:00 +0800
+data: 2016-01-08 
 categories: mathjax
 ---
 
+Yes
 $$ E = mc^2 $$
