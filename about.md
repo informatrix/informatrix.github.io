@@ -12,4 +12,4 @@ Currently, he is doing research on video analysis.
 
 You can find the Alfred at
 {% include icon-github.html username="informatrix" %} /
-[Informatrix](https://github.com/informatrix/)
+[Informatrix](https://github.com/informatrix)
