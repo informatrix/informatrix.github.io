@@ -15,7 +15,7 @@ My first trial is `JekyII` and `MathJax`, which is simple to set up.
    kramdown:
      math_engin: mathjax
      {% endhighlight %}
-* Add the `Mathjax` in the template `_layout\post.html'
+* Add the `Mathjax` in the template `_layout\post.html`
    {% highlight html %}
    <article ...>
    ...
