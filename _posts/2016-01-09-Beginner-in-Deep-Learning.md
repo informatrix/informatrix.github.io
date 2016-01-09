@@ -12,5 +12,7 @@ With the background of `Gaussian process`, I am always to figure out the connect
 Fundamental Concepts
 -------------------
 
-Function
+Function  $$ f(x)$$
 ====================
+
+$$ x $$

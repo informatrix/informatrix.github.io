@@ -20,4 +20,6 @@ github_username:  informatrix
 #  math_engine: mathjax
 #markdown: redcarpet
 markdown: kramdown
+kramdown:
+  math_engin: mathjax
 highlighter: pygments
