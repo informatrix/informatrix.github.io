@@ -54,3 +54,6 @@ The linear algebra course was taken during my first semester in undergraduate st
 
 I have studied lots of linear algebra by myself. The first inspiration is its applicaiton in multimedia or `computer vision`. The `foundation in multimedia` conducted by [Prof. Terence Sim](https://www.comp.nus.edu.sg/~tsim/) is the best course I have ever taken during my graduate study in NUS. Here is my note about [linear algebra]({% post_url 2015-11-01-Introduce-to-Linear-Algebra %})
 
+Probability is getting more intensions
+=====================================
+The last important tool that has been intensively used in machine learning is probability. Somehow we can treat the learning as a statistical learning process. Actually what we are doing is just to pick the most likely results based on our observation (`evidence`) and our prior. You can apply `Bayes rule` everywhere, it is the principle way to incorporate our human bias.
