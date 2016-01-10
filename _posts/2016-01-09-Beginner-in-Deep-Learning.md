@@ -40,4 +40,4 @@ $$
 y = c f(x) + b \tag{3}
 $$
 
-So the feature construction goal is to find the feature that can contains more information which can reduce the nonlinearity of the target function.
+So the feature construction goal is to find the feature that can contain more information which can reduce the nonlinearity of the target function.
