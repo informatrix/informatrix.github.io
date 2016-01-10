@@ -19,5 +19,4 @@ Inspired by the authors:
 2. Michael Nielsen, [Nerual network and deep learnign](http://neuralnetworksanddeeplearning.com/)
 3. TBA
 
-You can find the Alfred at
-{% include icon-github.html username="informatrix" %} 
+You can reach  Alfred @ ![email](/image/email.png){:height="31px"}
