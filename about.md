@@ -13,7 +13,7 @@ Inspired by current `open source` and `open science` community, Alfred is also m
 
 Regarding the research, Alfred is more interested in discovering the fundamental ideas behind those classic models, and how these ideas can be applied in the real world and solve our real problem. Alfred believes in `the simple is the beauty` philosphy.
 
-Inspired by the authors:
+Inspired by  authors:
 
 1. Kalid, [Better explained](http://betterexplained.com/)
 2. Michael Nielsen, [Nerual network and deep learnign](http://neuralnetworksanddeeplearning.com/)
