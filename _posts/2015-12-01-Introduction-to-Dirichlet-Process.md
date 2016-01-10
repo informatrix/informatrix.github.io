@@ -3,4 +3,12 @@ layout: post
 title: Introduction to Dirichlet Process
 ---
 
-Draft
+TBA
+
+Nonparametric
+========
+
+
+Chinese Restarant Process
+========================
+
