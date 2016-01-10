@@ -15,4 +15,4 @@ Fundamental Concepts
 Function  $$ f(x)$$
 ====================
 
-$$ x $$
+With the background of computer science, I have almost forgotten what the function is about after 4 years of intensive training. In CS, function is a slice of code which can be reused in the program. We need to change our view about funciton in `machine learning` area. Funciton is more about the description of the physical world. For example, we can say your decision about where to go for lunch is based on some variables, like budget, preference, schedule and so on. Right now, it is only the only programmable way we can model our world. And the machine learning is all about `functioin regression`, which is to find a function that can generate our physical world. The procedure about infering the function is mainly done by `optimization`. The idea is that the data observed provides some portion of the function, we need to make our guess function as close as possible to visible function.
