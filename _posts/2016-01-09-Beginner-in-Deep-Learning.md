@@ -61,3 +61,9 @@ The last important tool that has been intensively used in machine learning is pr
 Approximation
 =================================
 Long before I studied machine learning, I thought everything about science is 100% true or accurate. It turns out to be wrong. Science is really about `approximation`, where we propose some guess and these guess can be generalized well to explain our daily observation. The idea is very important to understand lots of modern learning algorithms, especially in the area of computational optimization.
+
+Big data 
+==========================
+Now everyone talks about big data. The following picture can give you a rough reason why it makes sense.
+
+![bigdata](/image/learning.jpg)
