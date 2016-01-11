@@ -68,6 +68,7 @@ Now everyone talks about big data. The following picture can give you a rough re
 
 ![bigdata](/image/learning.jpg)
 
-Anyway, machine learning is just a tool that is developed to solve the problem. `What's more useful than tool itself is the way of thinking about our physical world`, to summary, we can model the world information using math. The approach is to find a proper function in the massive function space, parameter is the way to control the freedom of the function space. This is our world, it's all about `information`. 
+
+Anyway, machine learning is just a tool that is developed to solve the problem. `What's more useful than tool itself is the way of thinking about our physical world`. To summary, we can model the world information using math. The approach is to find a proper function in the massive function space, and parameter is the way to control the freedom of the function space. This is our world, it's all about `information`. 
 
 
