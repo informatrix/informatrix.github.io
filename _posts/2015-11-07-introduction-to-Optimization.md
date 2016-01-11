@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduce to Optimization
+title: Introduction to Optimization
 ---
 
 TBA

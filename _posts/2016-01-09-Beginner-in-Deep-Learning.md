@@ -52,7 +52,7 @@ Linear algebra is important for modern machine learning
 
 The linear algebra course was taken during my first semester in undergraduate study. And it is really aweful because of the way the professor conducted the courses. To work with `high-dimensional` data, linear algebra is the most important and useful tool. To do well in machine learning, it's necessary to master linear algebra. The top material is the Gilbert Strang's open course [linear algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) from MIT, which is indeed intuitive and applicable.
 
-I have studied lots of linear algebra by myself. The first inspiration is its applicaiton in multimedia or `computer vision`. The `foundation in multimedia` conducted by [Prof. Terence Sim](https://www.comp.nus.edu.sg/~tsim/) is the best course I have ever taken during my graduate study in NUS. Here is my note about [linear algebra]({% post_url 2015-11-01-Introduce-to-Linear-Algebra %})
+I have studied lots of linear algebra by myself. The first inspiration is its applicaiton in multimedia or `computer vision`. The `foundation in multimedia` conducted by [Prof. Terence Sim](https://www.comp.nus.edu.sg/~tsim/) is the best course I have ever taken during my graduate study in NUS. Here is my note about [linear algebra]({% post_url 2015-11-01-Introduction-to-Linear-Algebra %})
 
 Probability is getting more intensions
 =====================================
