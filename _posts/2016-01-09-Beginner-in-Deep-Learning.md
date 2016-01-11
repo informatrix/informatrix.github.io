@@ -64,6 +64,8 @@ Long before I studied machine learning, I thought everything about science is 10
 
 Big data 
 ==========================
-Now everyone talks about big data. The following picture can give you a rough reason why it makes sense.
+Now everyone talks about big data. The following picture can give you a rough reason why it makes sense. With more informative data, we can just run simple algorithm to get much better results.
 
 ![bigdata](/image/learning.jpg)
+
+
