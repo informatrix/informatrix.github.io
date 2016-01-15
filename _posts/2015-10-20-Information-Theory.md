@@ -21,7 +21,7 @@ For example, suppose we have an array of integers `a = [1,1,1,1,1]` or even an i
 Huffman Code
 ===========
 We define the `information size` in terms of current computer implementated architecture, which is the number of bits used to store the information.
-Suppose we want to store number `1` in the computer, we can encode it with one boolean, one integer or one Byte. Another example is that suppose we want to store a set of points `$$[x_1,2x_1], [x_2, 2x_2], [x_3, 2x_3], \ldots, [x_n, 2x_n]$$`, the naive way is just to store them as a two-dimensional array of `int`. Is there any better way? Yes, we can have a more compact representation, which is `$$[x_1,x_2,x_3,\ldots,x_n]$$` plus a linear function with weight `2`. 
+Suppose we want to store number `1` in the computer, we can encode it with one boolean, one integer or one Byte. Another example is that suppose we want to store a set of points $$ [x_1,2x_1], [x_2, 2x_2], [x_3, 2x_3], \ldots, [x_n, 2x_n] $$, the naive way is just to store them as a two-dimensional array of `int`. Is there any better way? Yes, we can have a more compact representation, which is $$ [x_1,x_2,x_3,\ldots,x_n] $$ plus a linear function with weight `2`. 
 
 
 Fourier Analysis
