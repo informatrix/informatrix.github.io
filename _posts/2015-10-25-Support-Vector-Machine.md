@@ -45,3 +45,12 @@ $$
 $$
 
 To obtain better prediciton, it's intuitive to maximize this geometric margin. With these ideas, how can we turn them into a formulation?
+
+## Optimal Margin
+
+We can write it down straightforward,
+
+$$
+\max_{w,b} \min_i (\frac{w} {\|w \|})^T x^i + \frac{b}{\|w\|}
+$$
+
