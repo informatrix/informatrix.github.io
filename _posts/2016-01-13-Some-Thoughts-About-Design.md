@@ -7,4 +7,6 @@ There are two companies I know is producing the great products. One is Apple, th
 
 To make the product somehow is quite different to do research. In research, it's about new theory. However, in industry it's about using the current techniques to make a product that can improve people's life. Some great product may not be very theoretically hard, but it requires much engineering work. For example, to have a better face recognization result, researcher may focus on improving the classfication algorithm. But another dimension about the performance is the informaiton itself. Some time we need the complicated model is because we don't have enough information, so we need to encode lots prior. However, we may have an `Aha` moment when we have some new data. This is more like doing science, it's about to discover the new data or the materical.
 
+For example, to score the products it's important to have reviewing system. One challenging is to prevent the fake reviews, and make the reviewing system fair enough. It is easy to have some tools to autogenerate some good reviewers to have a fake reputation. But considering the banking system, they have a credit system to track the customers. Somehow I think it can be super helpful to build such a customer/service credit system. It's like when I first meet you, I can check your personal credit to judge what you say.
+
 TBA
