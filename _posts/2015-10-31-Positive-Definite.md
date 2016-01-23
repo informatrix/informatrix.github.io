@@ -117,7 +117,7 @@ $$
 
 Where $$ A - B D^{-1} C$$ is called the **Schur Complement of $$D$$ in $$M$$**. One interesting property for symmetric  matrix is that
 
-> if $$C$$ is invertible, then $$M$$ is positive semi-definite if only if Schur Complement of $$D$$ is positive semi-definite.
+> if $$D$$ is invertible, then $$M$$ is positive semi-definite if only if Schur Complement of $$D$$ is positive semi-definite.
 
 For detail proof, please refer to [Schur Complement](http://www.cis.upenn.edu/~jean/schur-comp.pdf). The basic idea is that
 
