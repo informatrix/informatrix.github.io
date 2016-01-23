@@ -3,11 +3,11 @@ layout: post
 title: Positive Definite and Its Application
 ---
 
-The concept of postive definite(`PD`) has puzzled me when I first saw it. It's intuitive to think about the positive number, e.g. `+5`. But what does it mean by saying a matrix is positive? And you can see a lot of positive definite or positive semi-definite(`PSD`) as the requirement for some mathematical tools. In this article, I will try to summarize what my knowledge regarding the `PD`.
+The concept of postive definite(`PD`) has puzzled me when I first saw it. It's intuitive to think about the positive number, e.g. `+5`. But what does it mean by saying a matrix is positive? And you can see a lot of positive definite or positive semi-definite(`PSD`) as the requirement for some mathematical tools. In this article, I will try to summarize  my knowledge regarding the `PD`.
 
 ## Definition
 
-First, let's define what is `positive definite`. In linear algebra, a `symmetric real` matrix $$M$$ is said to be **positve definite** if $$\mathsf{z}^TM\mathsf{z}$$ is postive for every `non-zero` vector $$\mathsf{z}$$. It's `PSD` if can be zero. It's  What does the definition tell us? It is really important to view the `PD` in the context of real application
+First, let's define what is `positive definite`. In linear algebra, a `symmetric real` matrix $$M$$ is said to be **positve definite** if $$\mathsf{z}^TM\mathsf{z}$$ is postive for every `non-zero` vector $$\mathsf{z}$$. It's `PSD` if can be zero.  What does the definition tell us? It can be really helpful to understand the concept if we discuss it int the context of applications.
 
 ### Quadratic real function
 I guess everyone should be familiar with quadratic real function, which can be expressed as
@@ -20,7 +20,7 @@ f(x, y) =& w_1 x^2 + w_2 x y + w_3 y^2  + w_4 x + w_5 y + w_6\\
 \end{align}
 $$
 
-The above is just a vectorized form of `quadratic function`. We can generalize it to any dimensional function. Lots of real application can be modeled using quadratic function. Often the goal is to maximize the function to get the maximal profit/gain. When we apply the gradient descent method, the second derivative ( `Hessian`) tells about the convexity or concavity.
+The above is just a vectorized form of `quadratic function`. We can generalize it to any dimensional function. Lots of real applications can be modeled using quadratic function. Often the goal is to maximize the function to get the maximal profit/gain. When we apply the gradient descent method, the second derivative ( `Hessian`) tells about the convexity or concavity.
 
 Here $$M$$ is the `Hessian` matrix for the function $$f(x,y)$$. If we let $$M$$ be a `PD` matrix, we would know that the function is convex is the local region. With the property, we could search the local minimum using the gradient method. 
 
