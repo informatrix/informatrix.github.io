@@ -148,7 +148,7 @@ Basically, We know that
 
 We need more careful discussion in case of $$ = 0$$, which should not be a problem.
 
-### Eivenvalue
+### Eigenvalue
 TBA
 
 ### Summary
