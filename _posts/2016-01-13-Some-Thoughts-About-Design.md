@@ -11,8 +11,10 @@ For example, to score the products it's important to have reviewing system. One 
 
 ### High-performance car and high-end watch
 
-Both these two things get one common thing: `high quality`. The engineer push them so hard to make the best product for the customers. It's not about just make the product and do business, it's about pursuing the perfection. In my opinion, there always is a philosohpy behind any top product or company. It's their philosphy that push them build these spectacular product.
+Both these two things get one common thing: `high quality`. The engineer push them so hard to make the best product for the customers. It's not about just make the product and do business, it's about pursuing the perfection. In my opinion, there always is a philosohpy behind any top product or company. It's their philosphy that push them build these spectacular product. It would be interesting to compare the software industry with the car or watch industry. Is it possible to have some luxurious software product like those of Ferrari or Porsche? 
 
 ### High-quality Software
 
-The next question is how to write a high-quality software.
+### What's the brand about?
+
+
