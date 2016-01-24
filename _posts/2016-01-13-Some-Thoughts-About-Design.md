@@ -15,6 +15,11 @@ Both these two things get one common thing: `high quality`. The engineer push th
 
 ### High-quality Software
 
+#### UX
+
+* Transparent
+* k
+
 ### What's the brand about?
 
 
