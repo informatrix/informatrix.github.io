@@ -23,3 +23,9 @@ Both these two things get one common thing: `high quality`. The engineer push th
 ### What's the brand about?
 
 
+### Culture
+
+### Vision
+Even for high-tech company like Google or Facebook, are they driven by the geeks? I don't think the geeks can build a successful company. In my opinion, the vision about the world and their taste is most important for the company's grownth.
+
+###
