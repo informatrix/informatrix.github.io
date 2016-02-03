@@ -22,4 +22,4 @@ github_username:  informatrix
 markdown: kramdown
 kramdown:
   math_engin: mathjax
-highlighter: rough
+highlighter: rouge
