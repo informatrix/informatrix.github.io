@@ -26,6 +26,9 @@ Both these two things get one common thing: `high quality`. The engineer push th
 ### Culture
 
 ### Vision
-Even for high-tech company like Google or Facebook, are they driven by the geeks? I don't think the geeks can build a successful company. In my opinion, the vision about the world and their taste is most important for the company's grownth.
+Even for high-tech company like Google or Facebook, are they driven by the geeks? I don't think the geeks can build a successful company. In my opinion, the vision about the world and their taste is most important for the company's grownth. To build a large and scale company, the vision is to search for a scalable problem and provide a scalable solution. And the techniques are the tools only. Without the scalable applications, the techniques would just be like a self-played toys.
 
-###
+### Ideas
+What's the ideas that can scale? Let's look at the current market. What prodcut would the customer be willing to buy? It should be either improving their happiness or their profit. For happiness, it can be arts product (luxurial ), entertainment product (xbox, toy) or, or utility device. The big question is about how to drive the market? Apple is a super example about how to drive the market by making good products. They are high-standard, high-funcitonal and high attracting. In another way, how to invent a new comsumer product is the big challenge.
+
+

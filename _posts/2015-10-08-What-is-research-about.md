@@ -16,6 +16,7 @@ Although it is a failure, I still think it may be helpful to write the lessons.
 ## What's research about?
 
 ## How to do good research?
+Even inside the research, there is a varity of categories. Most of current research works are engineering oriented, which means that the contribution is to solve the real problem. Another folder of research is to invent the new theory, or to imporve the current theory. These two types of research are quite different. For me, I was more focusing on the way of improving the theory, which I thought was more tough than just engineering work. Image processing, computer vision, data mining, multimedia is about more engineering work. So it is more like how to build the tools or make use of tools to solve the problem.
 
 ## Why do I quit research?
 
