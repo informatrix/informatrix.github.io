@@ -7,5 +7,5 @@ In this article, I would keep notes of my learning process on `Emacs`, as some o
 ## Lisp
 
 ## Configuration
-
+http://yulongniu.bionutshell.org/blog/2014/12/02/emacs-config-c/
 ###
