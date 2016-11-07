@@ -1,5 +1,5 @@
 ---
 layout: post
-title: How Machine Learns - Step1: Math tool
+title: How Machine Learns
 ---
 TBA
