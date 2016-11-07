@@ -8,3 +8,6 @@ Recently, I am going to rewiew the the book "Pattern Recognition and Machine Lea
 ## Jacobian Factor
 
 [Jacobian](https://www.quora.com/What-is-an-intuitive-explanation-of-Jacobians-and-a-change-of-basis/answer/Mark-Eichenlaub)
+
+
+
