@@ -23,11 +23,11 @@ Spatial Pyramid Pooling in Deep Convolutional Networks for visual Recognition (S
 
 For SSP-net, what does each spatial bin really contribute to the final results?
 
-###For SSP-net, why cannot it fine-tune the layers precede the spatial pyramid pooling?###
+### For SSP-net, why cannot it fine-tune the layers precede the spatial pyramid pooling? ###
 Because the training is designed to train the model with the ROIs from different images, which is not efficient
 
 
-##Fast-RCNN##
+## Fast-RCNN ##
 
 The main contribution:
 
