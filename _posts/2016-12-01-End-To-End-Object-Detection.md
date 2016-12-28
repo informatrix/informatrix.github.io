@@ -38,3 +38,4 @@ The questions:
 
 1. For bounding-box regression, do we need output 4xK values for each class?
 2. Spatial pyramid pooling structure, in fast-RCNN only one lever of pyramid, HxW bins, while in SSP-net there are hierarchical levers of pyramids.
+3. For fine-tuning, how can hierarchical sampling become a contribution of the paper? And what's the detail of hierarchical sampling? and how SGD is implemeted regarding the sampling method?
