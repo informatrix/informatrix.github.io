@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recent end-to-end object detection deep learning method
+title: Recent end-to-end object detection deep learning methods
 ---
 
 Deep learning has really boosted the application of compute vision.
@@ -23,7 +23,8 @@ Spatial Pyramid Pooling in Deep Convolutional Networks for visual Recognition (S
 
 For SSP-net, what does each spatial bin really contribute to the final results?
 
-For SSP-net, why cannot it fine-tune the layers precede the spatial pyramid pooling?
+###For SSP-net, why cannot it fine-tune the layers precede the spatial pyramid pooling?###
+Because the training is designed to train the model with the ROIs from different images, which is not efficient
 
 
 ##Fast-RCNN##
@@ -36,4 +37,4 @@ The main contribution:
 The questions:
 
 1. For bounding-box regression, do we need output 4xK values for each class?
-2. Spatial pyramid pooling structure, in fast-RCNN only one lever of pyramid, HxW bins.
+2. Spatial pyramid pooling structure, in fast-RCNN only one lever of pyramid, HxW bins, while in SSP-net there are hierarchical levers of pyramids.
