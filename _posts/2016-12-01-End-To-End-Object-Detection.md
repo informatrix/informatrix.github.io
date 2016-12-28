@@ -44,6 +44,7 @@ The questions:
 TODO: understand the loss function defintion, and why use smooth L1 function?
 
 Two ways of achieving scale invariant object detection:
+
 * `brute-force` learning: each image is processed as a pre-defined pixel size during both training and testing. The network must directly learn scale-invariant object detection from the traning data.
 * `image pyramids`: providing approximate scale-invariance to the network through an image pyramid. Figure out implementation detail.
 
@@ -53,3 +54,6 @@ If one model need to train more than one hours, then it's prohibitable to try ma
 Another Trick: Truncated SVD for faster detection (Approximation idea).
 
 Exact model & approximated solution vs. Approximated model &exact solution
+
+Idea: figure out which layer is task dependent, then it need to be fine-tuned when learning the specific task. Otherwise, it can be shared among different task. Usually, the first layer is task independent (a well known fact).
+
