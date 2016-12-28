@@ -40,3 +40,9 @@ The questions:
 2. Spatial pyramid pooling structure, in fast-RCNN only one lever of pyramid, HxW bins, while in SSP-net there are hierarchical levers of pyramids.
 3. For fine-tuning, how can hierarchical sampling become a contribution of the paper? And what's the detail of hierarchical sampling? and how SGD is implemeted regarding the sampling method?
 4. For bounding-box regression, why is $$ t^k $$ defined to specify a scal-invariant translation and log-space height/width shift relative to an object proposal.
+
+TODO: understand the loss function defintion, and why use smooth L1 function?
+
+Two ways of achieving scale invariant object detection:
+* `brute-force` learning: each image is processed as a pre-defined pixel size during both training and testing. The network must directly learn scale-invariant object detection from the traning data.
+* `image pyramids`: providing approximate scale-invariance to the network through an image pyramid. Figure out implementation detail. 
