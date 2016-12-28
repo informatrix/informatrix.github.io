@@ -45,7 +45,7 @@ TODO: understand the loss function defintion, and why use smooth L1 function?
 
 Two ways of achieving scale invariant object detection:
 
-* `brute-force` learning: each image is processed as a pre-defined pixel size during both training and testing. The network must directly learn scale-invariant object detection from the traning data.
+* `brute-force` learning: each image is processed as a pre-defined pixel size during both training and testing. The network must directly learn scale-invariant object detection from the traning data. And it's proved by experiments that this approach is better. 
 * `image pyramids`: providing approximate scale-invariance to the network through an image pyramid. Figure out implementation detail.
 
 Why we need the distributed training?
