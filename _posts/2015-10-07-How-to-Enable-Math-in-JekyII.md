@@ -27,10 +27,10 @@ My first trial is `JekyII` and `MathJax`, which is simple to set up.
 
 Now you can enjoy playing with math
 
-* Inline expression like $$ E = m c^2$$
+* Inline expression like $$ E = m c^2 $$
 
   ```
-  Inline expression like $$E = m c^2$$
+  Inline expression like $$ E = m c^2 $$
   ```
   
 * Block expression 
