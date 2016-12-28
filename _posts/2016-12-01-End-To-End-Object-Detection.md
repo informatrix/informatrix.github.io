@@ -36,4 +36,4 @@ The main contribution:
 The questions:
 
 1. For bounding-box regression, do we need output 4xK values for each class?
-2.
+2. Spatial pyramid pooling structure, in fast-RCNN only one lever of pyramid, HxW bins.
