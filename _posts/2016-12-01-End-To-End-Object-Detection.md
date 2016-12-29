@@ -57,3 +57,8 @@ Exact model & approximated solution vs. Approximated model &exact solution
 
 Idea: figure out which layer is task dependent, then it need to be fine-tuned when learning the specific task. Otherwise, it can be shared among different task. Usually, the first layer is task independent (a well known fact).
 
+## Faster RCNN ##
+
+The main bottleneck for the detection using fast RCNN is the region proposal. And usually the region proposal is done in CPU instead of GPU. The idea is to speed up the region proposal by making advantage of GPU.
+
+
