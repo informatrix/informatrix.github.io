@@ -81,3 +81,13 @@ Bounding-box regression is important for classification.
 Implementation detail: number of proposals , scales, ratios (anchor) , choose the negative samples.
 
 One idea about the end-to-end learning framework is that if we have a model with large capability, then more accuracy can be obtained when feed more data into the model.
+
+
+## YOLO ##
+
+Frame object detection as a regression problem to spatially separated bounding boxes and associated class probabilities.
+
+The main idea for detection is how to perform bounding box and class probabilities prediction based on the feature sharing,
+
+Encode contextual information about classes.
+
