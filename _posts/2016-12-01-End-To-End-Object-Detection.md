@@ -62,3 +62,22 @@ Idea: figure out which layer is task dependent, then it need to be fine-tuned wh
 The main bottleneck for the detection using fast RCNN is the region proposal. And usually the region proposal is done in CPU instead of GPU. The idea is to speed up the region proposal by making advantage of GPU.
 
 
+Idea: `sharing computation of convolutions which is efficient, yet accurate method for visual recognition.
+
+Region Proposal Network is still doing the sliding windows, but based on the convolutional layer, which shares the computation with the detection. Also notice that the anchor plays the role of pyramid.
+
+One challenge of detection is to handle the translation-invariant issue. It's easy to understand that the convolutional layer can be shift-invariant, but how to understand that the layer can be scale-invariant.
+
+THe design of multi-scale anchors is a key component for sharing features without extra cost for addressing scales.
+
+Also be careful about the selection of positive and negative samples.
+
+a set of $$ k $$ bounding-box regressors are learned ?
+
+Training RPN & Fast RCNN. The basic idea is to use deep nets to extract the features which can be shared between the proposal network and detection network.
+
+Bounding-box regression is important for classification.
+
+Implementation detail: number of proposals , scales, ratios (anchor) , choose the negative samples.
+
+One idea about the end-to-end learning framework is that if we have a model with large capability, then more accuracy can be obtained when feed more data into the model.
