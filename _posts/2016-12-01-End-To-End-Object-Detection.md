@@ -91,3 +91,8 @@ The main idea for detection is how to perform bounding box and class probabiliti
 
 Encode contextual information about classes.
 
+Grid cell, and do regression on each cell to predict the probability of the class. And like DPM, it can model the size and shape of the objects. 
+
+Compare `faster RCNN` and `YOLO`.
+
+YOLO is good at proposal. 
