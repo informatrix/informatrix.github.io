@@ -103,3 +103,4 @@ Implementation: Pr(Class| Object) only predict one set of class probabilities pe
 
 To summary: the idea of the yolo is to sharing the 7 x 7 image classification problem, and cast the classification problem to be a regression problem. And 
 
+## SSD ##
