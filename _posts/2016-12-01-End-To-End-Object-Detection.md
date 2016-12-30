@@ -89,10 +89,17 @@ Frame object detection as a regression problem to spatially separated bounding b
 
 The main idea for detection is how to perform bounding box and class probabilities prediction based on the feature sharing,
 
-Encode contextual information about classes.
+Encode contextual information about classes. (How to encode the global information of the image). Fast RCNN cannot.
 
 Grid cell, and do regression on each cell to predict the probability of the class. And like DPM, it can model the size and shape of the objects. 
 
 Compare `faster RCNN` and `YOLO`.
 
-YOLO is good at proposal. 
+YOLO is good at proposal.
+
+YOLO struggles with small objects compared to its closest competitors.
+
+Implementation: Pr(Class| Object) only predict one set of class probabilities per grid cell, regardless of the number of boxes B, why?
+
+To summary: the idea of the yolo is to sharing the 7 x 7 image classification problem, and cast the classification problem to be a regression problem. And 
+
