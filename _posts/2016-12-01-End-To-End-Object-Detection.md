@@ -103,3 +103,29 @@ Implementation: Pr(Class| Object) only predict one set of class probabilities pe
 
 To summary: the idea of the yolo is to sharing the 7 x 7 image classification problem, and cast the classification problem to be a regression problem. And 
 
+## SSD ##
+
+The first deep network based object detector which does not resample pixels or features for bounding box hypotheses and is as accurate as approaches that do.
+
+Using a small convolutional filter to predict object categories and offsets in bounding box locations, using separate predictors (filters) for different aspect ratio detections, and applying these filters to multiple feature maps from the later stages of a network in order to perform detection at multiple scales.
+
+1. The core of SSD is predicting category scores and box offsets for a fixed set of default bounding boxes using small convolutional filters applied to feature maps.
+2. To achieve high detection accuracy we produce predictions of different scales from feature maps of different scales, and explicitly separate predictions by aspect ratio.
+
+
+The SSD approach is based on a feed-forward convolutional network that produces a fixed-size collection of bouding boxes and scores for the presence of object class instances in those boxes.
+
+Hierarchical structure of the feature map for different scale and ratio.
+
+1. Data augmentation is crucial.
+2. 
+
+SSD is very sensitive to the bounding box size. In other words, it has much worse performance on smaller objects than bigger objects. This is not surprising because those small objects may not even have any information at the very top laryers.
+
+
+
+## Feature Pyramid Networks for object detection ##
+
+The construction of our pyramid involves a bottom-up pathway, a top-down pathway, and lateral connections
+
+Is it true that the hierarchy of the network gives the power of different scale?
